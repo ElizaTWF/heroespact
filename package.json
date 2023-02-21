@@ -8,7 +8,7 @@
     "test:pact": "start-server-and-test start http://localhost:3000 pact:providerTests"
   },
   "dependencies": {
-    "@hapi/hoek": "^6.2.1",
+    "@hapi/hoek": "^9.0.4",
     "@pact-foundation/pact-node": "^8.2.0",
     "cookie-parser": "~1.4.3",
     "debug": "~2.6.9",
